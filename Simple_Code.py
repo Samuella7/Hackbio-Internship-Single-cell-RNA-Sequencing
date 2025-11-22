@@ -4,9 +4,9 @@
 # A simple python script for printing the names, slack username, country,
 # 1 hobby, affiliations of people on your team and
 # and the DNA sequence of the genes they love most.
-#Author:Lucia Uchegbu
-#GitHub:https://github.com/LuciaUchegbu
-#Linkedin: www.linkedin.com/in/luciauchegbu
+#Author: Samuella Ebeny
+#GitHub: https://github.com/Samuella7
+#Linkedin: www.linkedin.com/in/sam-e-6608082ba
 
 #Step1 - Stored team Histidine member's information in Tuples
 
@@ -123,4 +123,5 @@ for member in team:
     print("DNA Sequence of Favoured Gene:")
     print(member[6])
     print("=" * 60, "\n")
+
 
