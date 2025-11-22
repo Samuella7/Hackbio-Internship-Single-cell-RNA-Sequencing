@@ -6,7 +6,7 @@ Stage Zero : Technical Writting and Python
 
 
 
-- md is a written essay titled What Single-Cell Data Is Teaching Us About Cancer Evolution, introducing the following concepts:
+- essay.md is a written essay titled What Single-Cell Data Is Teaching Us About Cancer Evolution, introducing the following concepts:
 
   Understanding Cancer as an Evolutionary Process
   
