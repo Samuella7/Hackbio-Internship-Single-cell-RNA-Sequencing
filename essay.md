@@ -12,7 +12,7 @@ This study examines how single-cell data has transformed our understanding of ca
 
 Cancer progression mirrors Darwinian evolution, where selective pressures such as hypoxia, immune surveillance, and therapeutic stress drive clonal diversification (Greaves & Maley, 2012). Single-cell studies show that genetic and transcriptomic variability among tumor cells underpins adaptability and survival under treatment stress (Davis et al., 2020). By resolving cellular hierarchies and differentiation trajectories, scRNA-seq enables tracing of clonal evolution and elucidation of how microenvironmental cues shape selection dynamics (Huang et al., 2023).
 
-![Diagram1](https://github.com/LuciaUchegbu/Hackbio_StageZero/raw/main/Diagram%201.png)
+![Figure 1](https://github.com/Samuella7/Hackbio-Internship-Single-cell-RNA-Sequencing/blob/main/Tumor%20microenvironment%20Figure%201.png)
 
 Figure 1:  Tumor evolution and intratumor heterogeneity. Adapted from Sabaawy (2013).
 
@@ -26,7 +26,7 @@ The standard scRNA-seq workflow includes sample preparation, cell isolation, rev
 
 Subsequent bioinformatics pipelines include quality control, normalization, clustering, differential expression, and trajectory inference to explore cellular heterogeneity and lineage relationships. Challenges such as dropout events and batch effects are addressed using computational corrections (Stuart et al., 2019).
 
-![Diagram2](https://github.com/LuciaUchegbu/Hackbio_StageZero/blob/main/Diagram%202.png)
+![Figure 2](https://github.com/Samuella7/Hackbio-Internship-Single-cell-RNA-Sequencing/blob/main/Workflow%20of%20single-cell%20RNA%20sequencing%20Technique%20Figure%202.png?raw=true)
 
 Figure 2: Workflow of single-cell RNA sequencing (scRNA-seq) techniques (Tang et al., 2009).
 
